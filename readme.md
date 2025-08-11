@@ -4,7 +4,7 @@
  Você pode realizar operações básicas como soma, subtração, multiplicação e divisão.  
 Sinta-se à vontade para testar e utilizar conforme necessário.
 
-###### link:[calculadora-beatrizmedeiros.surge.sh](calculadora-beatrizmedeiros.surge.sh)
+###### link:[calculadora-beatrizmedeiros.surge.sh](https://calculadora-beatrizmedeiros.surge.sh)
 
 <img width="1832" height="932" alt="image" src="https://github.com/user-attachments/assets/ce514cc7-9dfe-40af-980a-2b608be00574" />
 
